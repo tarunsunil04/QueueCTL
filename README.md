@@ -376,6 +376,12 @@ worker_id. This prevents any other worker from grabbing the same job.
 
 -> [Making a task queue only using pure Python](https://medium.com/data-science-collective/building-a-python-task-queue-from-scratch-how-i-replaced-celery-with-pure-python-for-full-control-eb8de7eb51e2)
 
+
+### Video Demo
+
+-> [Here it is.](https://drive.google.com/file/d/13r-Y-7k9kBrEpU-_vFYgmRMa1N7rdUBo/view?usp=sharing)
+
+
 ### Resoures, relevant references and repos
 
 -> [Python Redis Queue Library](https://github.com/rq/rq)
