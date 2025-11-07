@@ -4,6 +4,7 @@ import uuid
 import datetime
 import os
 import sys
+import json
 import shlex  # This is the key to handling quoted commands
 from db import get_db, ensure_indexes
 from config import get_config, set_config_value
@@ -302,4 +303,5 @@ if __name__ == "__main__":
         cli.main()
     else:
         # If no args (just 'python queuectl.py'), run the interactive shell.
+
         main_loop()
